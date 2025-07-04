@@ -1,0 +1,75 @@
+ID,Date,City,Venue,Team1,Team2,Toss Winner,Toss Decision,Winner,Win by Runs,Win by Wickets,Player of the Match,Umpire1,Umpire2
+1,2023-05-15,Lucknow,Ekana Stadium,LSG,GT,LSG,Field,LSG,0,6,Player_44,KN Ananthapadmanabhan,Kumar Dharmasena
+2,2023-05-13,Kolkata,Eden Gardens,SRH,GT,SRH,Bat,SRH,22,0,Player_30,Paul Reiffel,KN Ananthapadmanabhan
+3,2023-05-17,Hyderabad,Rajiv Gandhi Intl. Stadium,PBKS,RCB,PBKS,Field,PBKS,32,0,Player_25,Nitin Menon,Bruce Oxenford
+4,2023-03-31,Kolkata,Eden Gardens,RR,RCB,RCB,Field,RR,29,0,Player_31,Jayaraman Madanagopal,Anil Chaudhary
+5,2023-04-24,Lucknow,Ekana Stadium,GT,SRH,SRH,Bat,SRH,0,9,Player_25,Nitin Menon,Kumar Dharmasena
+6,2023-05-15,Mohali,PCA Stadium,DC,MI,MI,Field,DC,4,0,Player_44,Jayaraman Madanagopal,Bruce Oxenford
+7,2023-04-25,Bengaluru,M. Chinnaswamy Stadium,PBKS,CSK,PBKS,Field,PBKS,16,0,Player_27,Bruce Oxenford,Jayaraman Madanagopal
+8,2023-04-22,Delhi,Arun Jaitley Stadium,RR,SRH,SRH,Field,RR,35,0,Player_21,Rod Tucker,Anil Chaudhary
+9,2023-04-19,Mumbai,Wankhede Stadium,SRH,DC,SRH,Field,SRH,0,3,Player_35,Bruce Oxenford,Jayaraman Madanagopal
+10,2023-04-07,Jaipur,Sawai Mansingh Stadium,GT,DC,DC,Field,DC,53,0,Player_44,Jayaraman Madanagopal,KN Ananthapadmanabhan
+11,2023-05-02,Jaipur,Sawai Mansingh Stadium,LSG,GT,GT,Bat,LSG,44,0,Player_27,Anil Chaudhary,Nitin Menon
+12,2023-05-18,Mumbai,Wankhede Stadium,LSG,SRH,LSG,Field,LSG,60,0,Player_47,Rod Tucker,Kumar Dharmasena
+13,2023-05-04,Mumbai,Wankhede Stadium,CSK,GT,GT,Bat,GT,0,5,Player_5,Anil Chaudhary,Kumar Dharmasena
+14,2023-04-01,Mumbai,Wankhede Stadium,RR,DC,DC,Bat,DC,0,9,Player_41,Jayaraman Madanagopal,Paul Reiffel
+15,2023-04-30,Lucknow,Ekana Stadium,KKR,DC,DC,Field,DC,44,0,Player_48,Jayaraman Madanagopal,Anil Chaudhary
+16,2023-05-14,Lucknow,Ekana Stadium,KKR,DC,DC,Field,DC,48,0,Player_19,Anil Chaudhary,Kumar Dharmasena
+17,2023-04-15,Hyderabad,Rajiv Gandhi Intl. Stadium,RR,LSG,RR,Field,LSG,12,0,Player_24,KN Ananthapadmanabhan,Bruce Oxenford
+18,2023-05-13,Mumbai,Wankhede Stadium,MI,PBKS,MI,Bat,MI,22,0,Player_40,Rod Tucker,Nitin Menon
+19,2023-04-21,Mumbai,Wankhede Stadium,LSG,DC,LSG,Field,LSG,0,6,Player_27,Jayaraman Madanagopal,Paul Reiffel
+20,2023-05-03,Jaipur,Sawai Mansingh Stadium,DC,PBKS,DC,Bat,DC,27,0,Player_44,Jayaraman Madanagopal,KN Ananthapadmanabhan
+21,2023-04-05,Bengaluru,M. Chinnaswamy Stadium,LSG,DC,LSG,Bat,DC,0,3,Player_8,Anil Chaudhary,Kumar Dharmasena
+22,2023-05-20,Hyderabad,Rajiv Gandhi Intl. Stadium,GT,LSG,LSG,Field,LSG,0,1,Player_15,Nitin Menon,KN Ananthapadmanabhan
+23,2023-04-14,Mohali,PCA Stadium,RCB,LSG,RCB,Bat,RCB,0,1,Player_45,Paul Reiffel,Nitin Menon
+24,2023-05-12,Lucknow,Ekana Stadium,RR,RCB,RR,Bat,RR,0,4,Player_41,Rod Tucker,Jayaraman Madanagopal
+25,2023-04-28,Ahmedabad,Narendra Modi Stadium,DC,CSK,DC,Field,CSK,47,0,Player_45,Anil Chaudhary,KN Ananthapadmanabhan
+26,2023-05-08,Hyderabad,Rajiv Gandhi Intl. Stadium,GT,SRH,GT,Bat,SRH,0,8,Player_35,Jayaraman Madanagopal,KN Ananthapadmanabhan
+27,2023-05-07,Ahmedabad,Narendra Modi Stadium,LSG,MI,MI,Bat,MI,2,0,Player_49,KN Ananthapadmanabhan,Rod Tucker
+28,2023-05-15,Hyderabad,Rajiv Gandhi Intl. Stadium,RR,GT,GT,Field,RR,0,6,Player_12,Paul Reiffel,KN Ananthapadmanabhan
+29,2023-04-14,Bengaluru,M. Chinnaswamy Stadium,CSK,LSG,LSG,Bat,LSG,0,6,Player_8,Nitin Menon,Anil Chaudhary
+30,2023-04-17,Lucknow,Ekana Stadium,RCB,GT,GT,Bat,GT,0,1,Player_1,Anil Chaudhary,Jayaraman Madanagopal
+31,2023-03-31,Mumbai,Wankhede Stadium,DC,MI,MI,Bat,DC,16,0,Player_43,Paul Reiffel,KN Ananthapadmanabhan
+32,2023-04-02,Kolkata,Eden Gardens,LSG,KKR,KKR,Field,KKR,53,0,Player_41,Nitin Menon,Paul Reiffel
+33,2023-04-20,Hyderabad,Rajiv Gandhi Intl. Stadium,PBKS,LSG,LSG,Bat,LSG,45,0,Player_33,Kumar Dharmasena,Rod Tucker
+34,2023-04-04,Chennai,MA Chidambaram Stadium,KKR,MI,KKR,Bat,KKR,42,0,Player_2,Bruce Oxenford,Rod Tucker
+35,2023-04-10,Ahmedabad,Narendra Modi Stadium,SRH,GT,GT,Bat,GT,52,0,Player_28,KN Ananthapadmanabhan,Anil Chaudhary
+36,2023-04-24,Ahmedabad,Narendra Modi Stadium,SRH,RCB,RCB,Field,RCB,35,0,Player_1,Paul Reiffel,Kumar Dharmasena
+37,2023-04-06,Bengaluru,M. Chinnaswamy Stadium,GT,KKR,KKR,Field,GT,0,9,Player_42,Rod Tucker,Bruce Oxenford
+38,2023-04-10,Bengaluru,M. Chinnaswamy Stadium,CSK,SRH,CSK,Field,SRH,9,0,Player_24,Rod Tucker,Nitin Menon
+39,2023-05-09,Bengaluru,M. Chinnaswamy Stadium,LSG,KKR,KKR,Field,LSG,38,0,Player_23,Jayaraman Madanagopal,Anil Chaudhary
+40,2023-05-11,Lucknow,Ekana Stadium,SRH,PBKS,SRH,Bat,PBKS,29,0,Player_28,Paul Reiffel,Rod Tucker
+41,2023-05-01,Hyderabad,Rajiv Gandhi Intl. Stadium,PBKS,CSK,CSK,Field,CSK,0,10,Player_12,Rod Tucker,Nitin Menon
+42,2023-04-20,Kolkata,Eden Gardens,RCB,MI,MI,Field,MI,16,0,Player_31,Jayaraman Madanagopal,KN Ananthapadmanabhan
+43,2023-04-08,Chennai,MA Chidambaram Stadium,CSK,GT,GT,Bat,GT,30,0,Player_6,Anil Chaudhary,Kumar Dharmasena
+44,2023-04-08,Lucknow,Ekana Stadium,KKR,RCB,RCB,Bat,KKR,0,6,Player_5,Paul Reiffel,Anil Chaudhary
+45,2023-04-20,Mohali,PCA Stadium,SRH,CSK,SRH,Field,CSK,0,9,Player_26,Anil Chaudhary,KN Ananthapadmanabhan
+46,2023-04-07,Ahmedabad,Narendra Modi Stadium,RR,KKR,KKR,Bat,RR,12,0,Player_10,Nitin Menon,KN Ananthapadmanabhan
+47,2023-04-26,Delhi,Arun Jaitley Stadium,DC,RCB,DC,Bat,DC,0,5,Player_3,Kumar Dharmasena,Jayaraman Madanagopal
+48,2023-03-31,Hyderabad,Rajiv Gandhi Intl. Stadium,RR,DC,RR,Bat,RR,0,6,Player_12,KN Ananthapadmanabhan,Rod Tucker
+49,2023-04-22,Bengaluru,M. Chinnaswamy Stadium,GT,LSG,GT,Field,LSG,0,10,Player_14,Rod Tucker,Jayaraman Madanagopal
+50,2023-05-10,Bengaluru,M. Chinnaswamy Stadium,CSK,GT,CSK,Field,CSK,23,0,Player_25,Nitin Menon,KN Ananthapadmanabhan
+51,2023-05-04,Ahmedabad,Narendra Modi Stadium,DC,MI,DC,Bat,MI,25,0,Player_46,Kumar Dharmasena,Nitin Menon
+52,2023-05-11,Delhi,Arun Jaitley Stadium,PBKS,KKR,PBKS,Field,PBKS,18,0,Player_16,Rod Tucker,KN Ananthapadmanabhan
+53,2023-05-06,Mohali,PCA Stadium,MI,GT,GT,Bat,MI,2,0,Player_14,Nitin Menon,Paul Reiffel
+54,2023-05-03,Hyderabad,Rajiv Gandhi Intl. Stadium,RCB,GT,GT,Field,RCB,0,1,Player_15,Anil Chaudhary,Bruce Oxenford
+55,2023-05-17,Bengaluru,M. Chinnaswamy Stadium,SRH,RR,RR,Bat,SRH,0,8,Player_27,Kumar Dharmasena,Anil Chaudhary
+56,2023-05-06,Mohali,PCA Stadium,PBKS,MI,PBKS,Field,PBKS,0,2,Player_24,KN Ananthapadmanabhan,Jayaraman Madanagopal
+57,2023-05-16,Lucknow,Ekana Stadium,LSG,MI,MI,Field,MI,0,6,Player_26,Anil Chaudhary,Bruce Oxenford
+58,2023-05-20,Delhi,Arun Jaitley Stadium,RR,LSG,RR,Bat,LSG,35,0,Player_24,Nitin Menon,Paul Reiffel
+59,2023-05-17,Kolkata,Eden Gardens,PBKS,SRH,SRH,Field,PBKS,0,2,Player_44,Anil Chaudhary,Rod Tucker
+60,2023-04-23,Jaipur,Sawai Mansingh Stadium,KKR,MI,MI,Bat,MI,17,0,Player_28,Jayaraman Madanagopal,Paul Reiffel
+61,2023-05-04,Hyderabad,Rajiv Gandhi Intl. Stadium,RCB,RR,RCB,Field,RR,34,0,Player_27,Kumar Dharmasena,KN Ananthapadmanabhan
+62,2023-04-26,Hyderabad,Rajiv Gandhi Intl. Stadium,LSG,GT,LSG,Bat,LSG,3,0,Player_34,Rod Tucker,Kumar Dharmasena
+63,2023-04-02,Kolkata,Eden Gardens,RR,LSG,RR,Field,RR,37,0,Player_28,Paul Reiffel,Bruce Oxenford
+64,2023-05-06,Lucknow,Ekana Stadium,CSK,LSG,CSK,Bat,CSK,17,0,Player_5,KN Ananthapadmanabhan,Anil Chaudhary
+65,2023-04-21,Chennai,MA Chidambaram Stadium,LSG,MI,LSG,Field,MI,0,9,Player_50,Rod Tucker,Jayaraman Madanagopal
+66,2023-05-20,Hyderabad,Rajiv Gandhi Intl. Stadium,GT,SRH,SRH,Field,SRH,0,10,Player_10,KN Ananthapadmanabhan,Nitin Menon
+67,2023-04-16,Kolkata,Eden Gardens,LSG,DC,LSG,Field,LSG,52,0,Player_19,Kumar Dharmasena,Anil Chaudhary
+68,2023-05-20,Kolkata,Eden Gardens,DC,SRH,SRH,Field,SRH,33,0,Player_8,Kumar Dharmasena,Bruce Oxenford
+69,2023-05-02,Bengaluru,M. Chinnaswamy Stadium,RCB,MI,RCB,Field,RCB,0,8,Player_40,KN Ananthapadmanabhan,Paul Reiffel
+70,2023-04-13,Hyderabad,Rajiv Gandhi Intl. Stadium,LSG,SRH,SRH,Field,SRH,48,0,Player_2,Anil Chaudhary,Jayaraman Madanagopal
+71,2023-05-12,Mumbai,Wankhede Stadium,LSG,CSK,LSG,Bat,CSK,49,0,Player_48,Kumar Dharmasena,Bruce Oxenford
+72,2023-04-23,Hyderabad,Rajiv Gandhi Intl. Stadium,MI,RCB,MI,Bat,RCB,52,0,Player_25,Kumar Dharmasena,Nitin Menon
+73,2023-05-04,Mohali,PCA Stadium,SRH,KKR,KKR,Bat,KKR,42,0,Player_11,KN Ananthapadmanabhan,Rod Tucker
+74,2023-04-19,Mohali,PCA Stadium,KKR,LSG,LSG,Field,LSG,0,3,Player_38,Kumar Dharmasena,Anil Chaudhary
