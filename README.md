@@ -82,9 +82,13 @@ Student HOD – CSE (Data Science), HITAM
 📤 Uploaded to GitHub  
 🎥 Video Pending  
 =======
+
+
 # 📊 Task 3: Data Visualization – Zomato Dataset
 
 This task is part of my **Data Analytics Internship at CodeAlpha**, where I performed data visualization on a restaurant dataset to uncover trends in cuisines, ratings, and customer preferences.
+
+---
 
 ## 📁 Dataset Details
 - **`zomato.csv`** – Restaurant listings with details like cost, votes, and cuisines.
@@ -95,9 +99,9 @@ Merged both datasets using `Country Code` to enrich our data with country names 
 ---
 
 ## 🛠 Tools & Libraries
-- Python 🐍
-- Pandas 📊
-- Matplotlib & Seaborn 🎨
+- Python 🐍  
+- Pandas 📊  
+- Matplotlib & Seaborn 🎨  
 - Jupyter Notebook 🧠
 
 ---
@@ -111,17 +115,54 @@ Merged both datasets using `Country Code` to enrich our data with country names 
 
 ## 📈 Visualizations Created
 
-1. **Top 10 Cuisines** – Most popular cuisines across all listed restaurants.
-2. **Average Rating by Country** – Ranking countries based on average restaurant ratings.
-3. **Cost for Two vs Rating** – Scatterplot to check if cost impacts ratings.
-4. **Votes Distribution** – Histogram showing user engagement.
-5. **Top 10 Cities** – Cities with the most restaurant listings.
+### 1️⃣ Top 10 Cuisines  
+> Most popular cuisines across all listed restaurants.
 
-All plots are saved in the `plots/` folder for easy viewing.
+![Top 10 Cuisines](plots/top_cuisines.png)
+
+---
+
+### 2️⃣ Average Rating by Country  
+> Ranking countries based on average restaurant ratings.
+
+![Average Rating by Country](plots/avg_rating_by_country.png)
+
+---
+
+### 3️⃣ Cost for Two vs Rating  
+> Scatterplot to check if cost impacts ratings.
+
+![Cost vs Rating](plots/cost_vs_rating.png)
+
+---
+
+### 4️⃣ Votes Distribution  
+> Histogram showing user engagement through votes.
+
+![Votes Distribution](plots/votes_distribution.png)
+
+---
+
+### 5️⃣ Top 10 Cities  
+> Cities with the most restaurant listings in the dataset.
+
+![Top 10 Cities](plots/top_10_cities.png)
 
 ---
 
 ## 📸 Output Folder Structure
+
+Task-3_DataVisualization/
+├── zomato.csv
+├── Country-Code.xlsx
+├── data_viz_zomato.ipynb
+├── README.md
+└── plots/
+├── top_cuisines.png
+├── avg_rating_by_country.png
+├── cost_vs_rating.png
+├── votes_distribution.png
+└── top_10_cities.png
 
 
 ---
@@ -129,9 +170,15 @@ All plots are saved in the `plots/` folder for easy viewing.
 ## 🏁 Outcome
 
 This task helped strengthen my skills in:
-- Data visualization
-- Exploratory analysis
-- Communicating insights clearly through visuals
+- 📊 Data visualization
+- 🕵️ Exploratory data analysis (EDA)
+- 📢 Communicating insights clearly through visuals
 
-Proud to complete this as part of my internship journey ✨
+Proud to complete this as part of my internship journey at **CodeAlpha** ✨
+
+---
+
+## 📌 Repo Link:
+[🔗 GitHub Repo – CodeAlpha Data Analytics Internship](https://github.com/hemannayak/CodeAlpha_DataAnalytics_Internship)
+
 
