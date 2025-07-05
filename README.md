@@ -1,156 +1,113 @@
-# 📈 Task 2: Exploratory Data Analysis on IPL 2023
+# 📊 CodeAlpha Data Analytics Internship Projects – Heman
 
-This project is part of my **Data Analytics Internship at [CodeAlpha](https://www.codealpha.tech)**.  
-Here, I performed **Exploratory Data Analysis (EDA)** on a sample IPL 2023 dataset to identify winning trends, player performance, and toss decisions using Python libraries like **Pandas, Matplotlib, and Seaborn**.
+This repository contains completed tasks from my **Data Analytics Internship at [CodeAlpha](https://www.codealpha.tech)**.  
+Each project dives into real-world datasets to uncover insights using Python, Pandas, Matplotlib, Seaborn, and more.
 
 ---
 
-## 📁 Dataset
+## ✅ Completed Tasks
 
+### 📈 Task 2: Exploratory Data Analysis – IPL 2023
+
+This project focuses on **Exploratory Data Analysis (EDA)** on a sample IPL 2023 dataset to understand team performance, toss decisions, and player achievements.
+
+---
+
+#### 📁 Dataset Details
 - File: `IPL_2023_Matches.csv`
-- Type: Match-level structured CSV
 - Contains: Match ID, Team1, Team2, Toss details, Winner, Player of the Match, etc.
-- Source: Custom-created dataset based on IPL 2023 patterns
+- Type: Structured CSV mimicking IPL 2023 season patterns
 
 ---
 
-## 🔍 Key Analysis Performed
-
-✅ Top winning teams  
-✅ Toss decision patterns  
-✅ Most frequent “Player of the Match” winners  
-✅ Basic cleaning, null check, structure overview
+#### 🔍 Key Insights
+- Top winning teams of the season  
+- Toss decision trends: fielding vs batting  
+- Player of the Match frequency  
+- Null value checks and structure overview
 
 ---
 
-## 🛠️ Tools & Libraries Used
-
+#### 🛠 Tools & Libraries Used
 - Python 🐍  
 - Pandas  
 - Matplotlib  
 - Seaborn  
-- Jupyter Notebook / Google Colab
+- Jupyter Notebook
 
 ---
 
-## 📊 Visual Insights
+#### 📊 Visual Insights
 
-### 🏆 Top Winning Teams
-
+##### 🏆 Top Winning Teams  
 ![Winners Plot](plots/winners_plot.png)
 
 ---
 
-### 🎯 Toss Decision Frequency
-
+##### 🎯 Toss Decision Frequency  
 ![Toss Decision](plots/toss_decision.png)
 
 ---
 
-### 🌟 Player of the Match Frequency
-
+##### 🌟 Player of the Match Frequency  
 ![Player Awards](plots/player_of_match.png)
 
 ---
 
-## 📽️ Project Walkthrough
+### 📊 Task 3: Data Visualization – Zomato Dataset
 
-I’ll post a short video explanation of this project on [LinkedIn](https://www.linkedin.com) along with my GitHub repo link.
-
----
-
-## 🧑‍💻 Author
-
-**Heman**  
-Student HOD – CSE (Data Science), HITAM  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-🐱 [GitHub](https://github.com/your-username)
+A data visualization project that explores restaurant data and customer behavior across countries and cities.
 
 ---
 
-## 📌 Submission Details
+#### 📁 Dataset Details
+- `zomato.csv` – Restaurant listings with cuisines, ratings, votes, and costs
+- `Country-Code.xlsx` – Mapping file to get country names from codes
 
-- Internship: **CodeAlpha – Data Analytics**
-- Task: **2 of 4 — Exploratory Data Analysis (EDA)**
-- Project Repo: `CodeAlpha_DataAnalytics_Internship`
-
----
-
-## ✅ Status
-
-✔️ Completed & Ready for Submission  
-📤 Uploaded to GitHub  
-🎥 Video Pending  
-=======
-
-
-# 📊 Task 3: Data Visualization – Zomato Dataset
-
-This task is part of my **Data Analytics Internship at CodeAlpha**, where I performed data visualization on a restaurant dataset to uncover trends in cuisines, ratings, and customer preferences.
+The datasets were merged on the `Country Code` column for enriched analysis.
 
 ---
 
-## 📁 Dataset Details
-- **`zomato.csv`** – Restaurant listings with details like cost, votes, and cuisines.
-- **`Country-Code.xlsx`** – Mapping of country codes to country names.
-
-Merged both datasets using `Country Code` to enrich our data with country names 🌍
-
----
-
-## 🛠 Tools & Libraries
-- Python 🐍  
-- Pandas 📊  
-- Matplotlib & Seaborn 🎨  
-- Jupyter Notebook 🧠
+#### 🧼 Preprocessing
+- Removed missing values in important columns like `Cuisines`, `Aggregate rating`, and `Votes`
+- Converted data to appropriate types for analysis
+- Created custom groupings and aggregations for plots
 
 ---
 
-## 🧼 Preprocessing Steps
-- Removed missing values in `Cuisines`, `Aggregate rating`, and `Votes`.
-- Converted columns to appropriate numeric types.
-- Grouped and aggregated data for storytelling.
+#### 📈 Visualizations
+
+##### 1️⃣ Top 10 Cuisines  
+> Most loved food types across all restaurants  
+![Top Cuisines](plots/top_cuisines.png)
 
 ---
 
-## 📈 Visualizations Created
-
-### 1️⃣ Top 10 Cuisines  
-> Most popular cuisines across all listed restaurants.
-
-![Top 10 Cuisines](plots/top_cuisines.png)
+##### 2️⃣ Average Rating by Country  
+> Mean rating of restaurants in each country  
+![Rating by Country](plots/avg_rating_by_country.png)
 
 ---
 
-### 2️⃣ Average Rating by Country  
-> Ranking countries based on average restaurant ratings.
-
-![Average Rating by Country](plots/avg_rating_by_country.png)
-
----
-
-### 3️⃣ Cost for Two vs Rating  
-> Scatterplot to check if cost impacts ratings.
-
+##### 3️⃣ Cost for Two vs Rating  
+> Does cost reflect in higher ratings?  
 ![Cost vs Rating](plots/cost_vs_rating.png)
 
 ---
 
-### 4️⃣ Votes Distribution  
-> Histogram showing user engagement through votes.
-
-![Votes Distribution](plots/votes_distribution.png)
-
----
-
-### 5️⃣ Top 10 Cities  
-> Cities with the most restaurant listings in the dataset.
-
-![Top 10 Cities](plots/top_10_cities.png)
+##### 4️⃣ Votes Distribution  
+> How actively users are voting  
+![Votes](plots/votes_distribution.png)
 
 ---
 
-## 📸 Output Folder Structure
+##### 5️⃣ Top 10 Cities  
+> Cities with the highest number of restaurant listings  
+![Top Cities](plots/top_10_cities.png)
+
+---
+
+#### 📁 Output Folder Structure
 
 Task-3_DataVisualization/
 ├── zomato.csv
@@ -164,21 +121,109 @@ Task-3_DataVisualization/
 ├── votes_distribution.png
 └── top_10_cities.png
 
+---
+
+## 🧠 Skills Gained
+
+- Exploratory Data Analysis (EDA)  
+- Data Cleaning and Aggregation  
+- Data Visualization and Storytelling  
+- Handling Multi-source Datasets  
+- Insightful Reporting for Business Contexts
+
+---
+
+## 🧑‍💻 Author
+
+**Heman**  
+Student HOD – CSE (Data Science), HITAM  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+🐱 [GitHub](https://github.com/hemannayak)
+
+---
+
+## 📌 Project Repository
+
+🔗 [CodeAlpha_DataAnalytics_Internship – GitHub Repo](https://github.com/hemannayak/CodeAlpha_DataAnalytics_Internship)
+
+---
+
+## 🏁 Status
+
+✔️ Tasks Completed: 2 & 3  
+📤 Uploaded and synced to GitHub  
+🎥 Project walkthrough video (in progress)  
+
+
+# 💬 Task 4: Sentiment Analysis – Amazon Reviews
+
+This task is part of my **Data Analytics Internship at [CodeAlpha](https://www.codealpha.tech)** where I performed sentiment analysis on 200+ Amazon product reviews using Natural Language Processing (NLP) techniques.
+
+---
+
+## 📁 Dataset
+
+- File: `amazon_reviews.csv`  
+- Contains: Product reviews scraped from Amazon (manually curated)  
+- Fields: Review Text
+
+---
+
+## 🛠 Tools & Libraries Used
+
+- Python 🐍  
+- Pandas  
+- TextBlob (for sentiment polarity & subjectivity)  
+- Matplotlib & Seaborn  
+- Jupyter Notebook
+
+---
+
+## 🔍 Sentiment Process
+
+1. Cleaned and preprocessed raw reviews  
+2. Used `TextBlob` to classify each review as:
+   - Positive 😄
+   - Neutral 😐
+   - Negative 😡
+3. Counted sentiment distribution
+4. Visualized it with Seaborn
+
+---
+
+## 📊 Visualization
+
+### 📈 Sentiment Distribution
+
+> Understanding the mood of customers through review data.
+
+![Sentiment Distribution](plots/sentiment_distribution.png)
 
 ---
 
 ## 🏁 Outcome
 
-This task helped strengthen my skills in:
-- 📊 Data visualization
-- 🕵️ Exploratory data analysis (EDA)
-- 📢 Communicating insights clearly through visuals
-
-Proud to complete this as part of my internship journey at **CodeAlpha** ✨
+This task helped me:
+- Understand real-world sentiment data
+- Use NLP tools like TextBlob
+- Practice textual data cleaning and visualization
 
 ---
 
-## 📌 Repo Link:
-[🔗 GitHub Repo – CodeAlpha Data Analytics Internship](https://github.com/hemannayak/CodeAlpha_DataAnalytics_Internship)
+## 📌 Folder Structure
+
+Task-4_SentimentAnalysis/
+├── amazon_reviews.csv
+├── sentiment_analysis.ipynb
+├── README.md
+└── plots/
+└── sentiment_distribution.png
 
 
+---
+
+## ✅ Status
+
+✔️ Completed  
+📤 Uploaded to GitHub  
+🎥 Video explanation pending
