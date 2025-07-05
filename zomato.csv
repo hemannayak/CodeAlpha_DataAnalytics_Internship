@@ -1,0 +1,101 @@
+Restaurant Name,Country Code,City,Cuisines,Average Cost for two,Aggregate rating,Votes
+Biryani House,14,Hyderabad,Healthy Food,1200,3.5,794
+Biryani House,1,Mumbai,Healthy Food,700,4.8,503
+Tandoori Zone,1,New Delhi,Asian,700,4.8,974
+Tandoori Zone,14,Hyderabad,Pizza,300,4.4,549
+Biryani House,14,Chennai,South Indian,300,3.1,542
+Cafe Delight,14,Mumbai,Asian,700,4.5,70
+Crunch Hub,1,Mumbai,Mughlai,500,4.6,334
+Biryani House,14,Pune,North Indian,1000,3.1,417
+Global Bites,1,Bangalore,Barbeque,1500,5.0,262
+Wok Express,1,Melbourne,Healthy Food,1800,4.6,739
+Cafe Delight,1,Pune,Pizza,700,4.0,148
+Spicy Treat,1,Mumbai,Chinese,500,3.7,462
+Tandoori Zone,1,Sydney,Continental,700,4.3,813
+Flavor Fusion,14,Bangalore,Japanese,2000,5.0,260
+Flavor Fusion,14,Melbourne,Fast Food,2500,3.3,594
+Spicy Treat,14,New Delhi,Continental,300,3.5,469
+Crunch Hub,14,Sydney,Mughlai,1200,4.5,675
+Spicy Treat,1,Mumbai,Japanese,300,4.2,359
+Spicy Treat,1,Kolkata,Fast Food,2500,3.5,586
+Wok Express,14,Kolkata,Barbeque,1800,3.2,601
+Cafe Delight,14,Melbourne,Mughlai,1000,4.4,98
+Global Bites,1,New Delhi,Barbeque,700,3.8,705
+Crunch Hub,14,New Delhi,Asian,700,3.6,571
+Taste Buds,14,Mumbai,Barbeque,300,3.4,370
+Cafe Delight,14,Melbourne,Pizza,500,3.2,730
+Taste Buds,14,Mumbai,Japanese,2000,4.4,796
+Spicy Treat,14,Chennai,Mughlai,700,4.7,292
+Urban Grill,1,Kolkata,Asian,2500,4.5,800
+Flavor Fusion,1,Bangalore,Barbeque,500,4.7,416
+Biryani House,1,Bangalore,Fast Food,500,4.2,140
+Global Bites,1,Kolkata,North Indian,300,3.2,725
+Tandoori Zone,1,Chennai,Chinese,1800,3.2,835
+Biryani House,14,Mumbai,South Indian,2000,3.9,609
+Taste Buds,14,Mumbai,Fast Food,1200,3.6,621
+Global Bites,1,Melbourne,Pizza,1500,4.6,305
+Flavor Fusion,14,Kolkata,Chinese,2500,3.3,480
+Biryani House,1,Mumbai,South Indian,2000,3.7,75
+Crunch Hub,14,Mumbai,Chinese,1800,3.1,188
+Global Bites,1,Pune,Pizza,300,4.2,987
+Flavor Fusion,14,Chennai,Mughlai,1000,4.5,278
+Crunch Hub,1,Melbourne,Barbeque,1200,3.5,451
+Flavor Fusion,14,Pune,Chinese,1800,4.2,455
+Tandoori Zone,1,New Delhi,Asian,500,4.1,185
+Biryani House,1,Hyderabad,South Indian,1000,3.9,603
+Flavor Fusion,1,Bangalore,Mughlai,1500,3.5,382
+Flavor Fusion,1,Pune,Japanese,700,3.2,743
+Urban Grill,14,Pune,South Indian,1200,4.5,176
+Wok Express,14,New Delhi,Chinese,500,3.3,133
+Tandoori Zone,1,Hyderabad,Chinese,300,3.6,942
+Global Bites,1,New Delhi,Asian,700,4.0,693
+Biryani House,14,Kolkata,Pizza,300,4.5,106
+Urban Grill,1,Pune,Barbeque,2500,4.2,698
+Crunch Hub,14,Sydney,Italian,2500,3.2,212
+Taste Buds,1,Sydney,Chinese,500,3.5,770
+Global Bites,14,Bangalore,South Indian,300,4.4,212
+Tandoori Zone,14,Melbourne,Chinese,500,4.4,525
+Tandoori Zone,14,Mumbai,Continental,300,3.2,790
+Urban Grill,14,Bangalore,Pizza,500,3.9,242
+Biryani House,14,Pune,Continental,300,3.7,142
+Cafe Delight,14,Melbourne,Japanese,2500,3.0,274
+Taste Buds,14,Melbourne,Barbeque,1800,4.0,822
+Wok Express,14,Kolkata,Pizza,1200,4.2,267
+Wok Express,1,Sydney,Healthy Food,2500,4.9,897
+Urban Grill,1,Pune,Chinese,1200,4.9,155
+Crunch Hub,1,New Delhi,Pizza,500,3.6,473
+Global Bites,14,New Delhi,Asian,1800,4.5,717
+Wok Express,14,Pune,Barbeque,1000,5.0,366
+Urban Grill,1,Hyderabad,Asian,1200,3.9,686
+Spicy Treat,1,Mumbai,Chinese,700,3.4,146
+Taste Buds,14,Hyderabad,Italian,1800,3.7,320
+Wok Express,1,Melbourne,Asian,1500,5.0,914
+Crunch Hub,14,Hyderabad,Barbeque,1000,3.8,140
+Urban Grill,1,Chennai,Chinese,2000,3.8,424
+Biryani House,1,Kolkata,Pizza,1000,4.6,841
+Urban Grill,14,Chennai,Mughlai,1800,5.0,911
+Flavor Fusion,14,Melbourne,Mughlai,2500,4.9,683
+Urban Grill,14,Chennai,Asian,1800,3.9,412
+Wok Express,14,Mumbai,Continental,1500,4.0,153
+Urban Grill,14,Chennai,Chinese,1200,3.7,628
+Tandoori Zone,14,New Delhi,Chinese,300,3.1,272
+Biryani House,1,Bangalore,Japanese,2000,4.8,104
+Tandoori Zone,1,New Delhi,Barbeque,500,4.7,907
+Global Bites,14,Bangalore,Fast Food,700,4.3,972
+Spicy Treat,14,Chennai,Healthy Food,500,4.6,919
+Urban Grill,1,Bangalore,Asian,1000,3.4,989
+Wok Express,1,Sydney,Barbeque,2500,3.8,949
+Urban Grill,14,Sydney,Japanese,1500,3.2,619
+Spicy Treat,14,Chennai,Healthy Food,1000,3.5,744
+Tandoori Zone,14,Sydney,Fast Food,700,3.9,794
+Biryani House,1,Mumbai,Continental,300,5.0,880
+Wok Express,14,Melbourne,South Indian,1500,4.8,296
+Global Bites,1,Pune,Barbeque,300,3.9,93
+Biryani House,14,Pune,Asian,2000,4.4,480
+Spicy Treat,1,New Delhi,Fast Food,300,3.1,848
+Biryani House,14,Melbourne,Pizza,2500,4.5,334
+Wok Express,14,Mumbai,Barbeque,1000,3.8,771
+Global Bites,1,Kolkata,Asian,500,3.1,867
+Biryani House,14,New Delhi,Pizza,1800,3.2,200
+Cafe Delight,1,Melbourne,Pizza,300,3.5,666
+Flavor Fusion,14,Pune,Barbeque,500,3.4,173
